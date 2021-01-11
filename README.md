@@ -1,5 +1,4 @@
 <a href="https://apps.apple.com/app/id1452689527" target="_blank">
-<img src="https://user-images.githubusercontent.com/26833433/82944393-f7644d80-9f4f-11ea-8b87-1a5b04f555f1.jpg" width="1000"></a>
 &nbsp
 
 ![CI CPU testing](https://github.com/ultralytics/yolov5/workflows/CI%20CPU%20testing/badge.svg)
@@ -45,6 +44,8 @@ $ pip install -r requirements.txt
 pycocotools install：
 
 pip --default-timeout=1000 install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements
+
+pip install git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI
 
 https://www.pythonheidong.com/blog/article/430106/c85d976fe9920c9f5c29/
 
