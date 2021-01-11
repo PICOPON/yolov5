@@ -46,6 +46,7 @@ pycocotools install：
 
 pip --default-timeout=1000 install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements
 
+https://www.pythonheidong.com/blog/article/430106/c85d976fe9920c9f5c29/
 
 ## Tutorials
 
