@@ -42,6 +42,9 @@ Python 3.8 or later with all [requirements.txt](https://github.com/ultralytics/y
 ```bash
 $ pip install -r requirements.txt
 ```
+pycocotools install：
+
+pip --default-timeout=1000 install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements
 
 
 ## Tutorials
